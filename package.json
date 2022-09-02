@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IGardocki/simple-node-server.git"
+  },
+  
+  "author": "Ian Gardocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IGardocki/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/IGardocki/simple-node-server#readme"
+}
